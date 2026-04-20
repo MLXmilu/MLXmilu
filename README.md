@@ -11,7 +11,7 @@
 > **核心驱动：Vue 3 + React + Uni-app + AIAD (AI 增强开发)**
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=vue,react,js,ts,html,css,sass,unocss,vite,nodejs,mysql,git,linux,github,ps,ai" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,vue,react,sass,unocss,vite,nodejs,mysql,git,linux,github,ps,ai" />
 </div>
 
 ### 🚀 Projects (正在实战)
