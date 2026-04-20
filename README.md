@@ -19,8 +19,10 @@
 #### 🖥 Back-end & Infrastructure
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 
-#### 🎨 Design & Others
-<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" /> <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" /> <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
+#### 🤖 AI Models & Copilots
+<img src="https://img.shields.io/badge/ChatGPT-74aa17?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" /> <img src="https://img.shields.io/badge/Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" /> <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" /> <img src="https://img.shields.io/badge/Trae-2196F3?style=for-the-badge&logo=trae&logoColor=white" /> 
+<br />
+<img src="https://img.shields.io/badge/Qwen-512BD4?style=for-the-badge&logo=alibabacloud&logoColor=white" /> <img src="https://img.shields.io/badge/ChatGLM-0084FF?style=for-the-badge&logo=zhipuai&logoColor=white" /> <img src="https://img.shields.io/badge/MiniMax-FF4F00?style=for-the-badge&logo=minimax&logoColor=white" />
 
 ---
 
